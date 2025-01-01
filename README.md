@@ -1,4 +1,4 @@
-# Ejercicio práctico 1 - Módulo 4 Adalid Corfo
+# Ejercicio práctico 2 - Módulo 4 Adalid Corfo
 
 ## Descripción del Proyecto
 
@@ -12,7 +12,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/Pabloblockchain24/ejercicio1-modulo4-adalid-corfo.git
+   git clone https://github.com/Pabloblockchain24/ejercicio2-modulo4-adalid-corfo.git
    ```
    
    cd ejercicio1-modulo4-adalid-corfo
